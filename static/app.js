@@ -67,11 +67,11 @@ vapp = new Vue({
     showSRStock: false,
     showM16A4: false,
     showSCAR: true,
-    showAK47: false,
+    showAK47: true,
     showHK416: true,
     showPan: true,
-    showMini14: false,
-    showSKS: false,
+    showMini14: true,
+    showSKS: true,
     showKar98k: true,
 
     // --------------------------------------------------------------------------
